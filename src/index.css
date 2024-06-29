@@ -4,7 +4,7 @@ body {
 .btn {
   background-color: rgba(43, 66, 237, 0.521);
   border: none;
-  padding: 20px 30px;
+  padding: 30px 40px;
   border-radius: 10px;
   box-shadow: 2px 2px 5px black;
   text-align: center;
@@ -25,20 +25,22 @@ body {
 .container {
   /* background-color: antiquewhite; */
   text-align: center;
-  margin-top: 200px;
+  margin-top: 250px;
+
 }
 
 .reset-btn {
-  padding: 10px 30px;
+  padding: 17px 30px;
   margin-top: 30px;
   background-color: rgb(196, 236, 35);
   border: none;
-  border-radius: 3px;
+  border-radius: 5px;
   box-shadow: 2px 2px 3px black;
   cursor: pointer;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
   transition: all 0.3s;
+  font-size: large;
 
 }
 
